@@ -1,6 +1,6 @@
 # Kapil Londhe - Software Developer
 
-Welcome to my GitHub profile! I'm Kapil Londhe, a passionate software developer with a love for crafting code and solving problems. This space is a collection of my projects, contributions, and a glimpse into my journey in the world of software development.
+Welcome to my GitHub profile! I'm Kapil, a passionate software developer with a love for crafting code and solving problems. This space is a collection of my projects, contributions, and a glimpse into my journey in the world of software development.
 
 ## About Me
 
@@ -8,8 +8,7 @@ I'm a Software Engineer with 2 years of experience specializing in JavaScript an
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Node.js, C++
-- **Framework:** JavaScript, C++
+- **Languages:** JavaScript, Node.js,
 - **Web Development:** HTML, CSS, React
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git
